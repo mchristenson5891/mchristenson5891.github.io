@@ -1,0 +1,43 @@
+/* * {
+    border: 1px solid red;
+} */
+
+body {
+    /* background-color: dodgerblue; */
+    font-family: 'Allison', cursive;
+    /* color: rgba(red, green, blue, alpha); */
+}
+
+.mammals {
+    color: red;
+    font-weight: bold;
+    padding: 0px 40px;
+}
+
+.birds {
+    color: blue;
+    font-style: italic;
+    margin-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.fishes {
+    color: orange;
+    text-decoration: underline;
+    padding: 30px;
+    margin-top: 40px;
+}
+
+#first-ol {
+    background-color: lime;
+    padding: 50px;
+    /* padding-left: 500px;
+    padding-top: 80px;
+    padding-bottom: 8px; */
+    margin: 100px;
+}
+
+div {
+    background-color: pink;
+}
